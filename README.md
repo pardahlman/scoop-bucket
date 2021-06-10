@@ -6,4 +6,4 @@ This repository contains a [bucket](https://github.com/lukesampson/scoop/wiki/Bu
 
 ## Applications
 
-None (yet)
+**Sourcegraph CLI**: Command line interface to [Sourcegraph](https://about.sourcegraph.com/), based on their GitHub releases.
